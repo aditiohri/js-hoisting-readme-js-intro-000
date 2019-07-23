@@ -14,7 +14,7 @@ var crazy = function thisIsCrazy() {
   }
 function crazy() {
   // fix the code in here:
-return() => { thisIsCrazy(); 
+return() => { thisIsCrazy();
 }
 }
 }
