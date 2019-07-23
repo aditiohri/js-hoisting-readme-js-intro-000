@@ -9,12 +9,12 @@ function callMe() {
 }
 
 var crazy = function thisIsCrazy() {
-
+  {
+    console.log("hey!!!")
+  }
 function crazy() {
   // fix the code in here:
-return() => { thisIsCrazy(); {
-  console.log("hey!!!")
-}
+return() => { thisIsCrazy(); 
 }
 }
 }
