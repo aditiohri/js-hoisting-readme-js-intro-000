@@ -21,7 +21,7 @@ return() => { thisIsCrazy();
 
 function sayMyName() {
 {
+var name = "Kristin";
     console.log(name);
-    var name = "Kristin";
   }
 }
